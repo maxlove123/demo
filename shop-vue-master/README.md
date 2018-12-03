@@ -16,12 +16,12 @@
 * 如果运行不成功请查看是否缺少配置文件 比如.babelrc或者尝试用vue-cli初始化一个vue项目再将本项目移植进去
 
 
-
 * [效果查看 项目截图部分](./desc.md)
 
 
 * 真机体验可能会带来不流畅卡顿等现象 建议使用Chrome浏览器体验
-
+* 手机扫一扫查看demo
+![image](https://upload-images.jianshu.io/upload_images/11012889-f3c23b156a2871e3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 * 本项目用到的素材图片均来自唯品会网，仅学习使用，如果有问题请联系我删除 ^_^
 
 ### 项目文档说明
